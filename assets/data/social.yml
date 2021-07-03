@@ -509,3 +509,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 065: Hackerrank
+hackerrank:
+  Weight: 65
+  Prefix: https://www.hackerrank.com/
+  Title: Hacker Rank
+  Icon:
+    Class: fab fa-hackerrank fa-fw
